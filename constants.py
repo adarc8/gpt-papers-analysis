@@ -1,0 +1,20 @@
+TAG_TO_STR = {
+    1: "Segmentation", 2: "Registration", 3: "Generative AI", 4: "Explainable AI", 5: "Diffusion Models",
+    6: "Unique Architecture", 7: "Text-Image Fusion", 8: "Multimodality", 9: "Self-Supervised Learning",
+    10: "Few-Shot Learning", 11: "Zero-Shot Learning", 12: "Transfer Learning", 13: "Domain Adaptation",
+    14: "Federated Learning", 15: "Contrastive Learning", 16: "Reinforcement Learning", 17: "Graph Neural Networks",
+    18: "Transformers", 19: "Vision Transformers (ViT)", 20: "Large Language Models(LLMs)", 21: "Prompt Engineering",
+    22: "Neural Architecture Search", 23: "Optimization Techniques", 24: "Neural Style Transfer",
+    25: "Knowledge Distillation", 26: "Edge AI", 27: "Tiny ML", 28: "Autonomous Agents", 29: "Active Learning",
+    30: "Semi-Supervised Learning", 31: "Clustering Algorithms", 32: "Metric Learning", 33: "Anomaly Detection",
+    34: "Synthetic Data Generation", 35: "Unsupervised Learning", 36: "Contrastive Divergence",
+    37: "Adversarial Robustness", 38: "Hybrid Models(e.g., Neural + Symbolic)", 39: "Bayesian Neural Networks",
+    40: "Probabilistic Models", 41: "Sparse Representations", 42: "Attention Mechanisms",
+    43: "Temporal Sequence Modeling", 44: "Recurrent Neural Networks(RNNs)",
+    45: "Long Short-Term Memory Networks(LSTMs)", 46: "Graph Embeddings", 47: "Multi-Agent Systems",
+    48: "Evolutionary Algorithms", 49: "Generative Adversarial Networks(GANs)", 50: "Diffusion Probabilistic Models",
+    51: "Hyperparameter Tuning", 52: "AI for Edge Devices", 53: "RLHF (Reinforcement Learning with Human Feedback)",
+    54: "Optimization-based Meta-Learning", 55: "Continual Learning", 56: "Catastrophic Forgetting",
+    57: "Neural ODEs (Ordinary Differential Equations)", 58: "Energy-Based Models", 59: "Sparse Neural Networks",
+    60: "AI Interpretability"
+}
